@@ -1,22 +1,5 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/281707998/20.1.3%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T916594)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-[![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
-<!-- default badges end -->
-# Diagram - How to edit data using a separate form
+⛔ DEPRECATED. This example is deprecated. Refer to the following topic for more information:
 
-This example illustrates a possible way of editing diagram data using a separate form. The form is updated in the [ItemClick](https://js.devexpress.com/jQuery/Documentation/ApiReference/UI_Components/dxDiagram/Events/#itemClick) and [SelectionChanged](https://js.devexpress.com/jQuery/Documentation/ApiReference/UI_Components/dxDiagram/Events/#selectionChanged) event handlers.
+- https://js.devexpress.com/Demos/WidgetsGallery/Demo/Diagram/CustomShapesWithTemplatesWithEditing
 
-## Files to Review
-
-* [index.html](./JS/index.html)
-* [script.js](./JS/script.js)
-* [style.css](./JS/style.css)
-<!-- feedback -->
-## Does this example address your development requirements/objectives?
-
-[<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=devextreme-diagram-edit-data-using-separate-form&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=devextreme-diagram-edit-data-using-separate-form&~~~was_helpful=no)
-
-(you will be redirected to DevExpress.com to submit your response)
-<!-- feedback end -->
+The current repository will not be updated in the future.
